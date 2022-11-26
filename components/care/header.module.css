@@ -1,0 +1,13 @@
+.header {
+    background: #fff;
+    padding: 10px 20px;
+}
+
+.header p {
+    margin: 0;
+}
+
+.patientName {
+    color: #19BAB2;
+}
+

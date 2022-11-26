@@ -1,0 +1,25 @@
+.nav {
+    background: #19BAB2;
+    border-radius: 5px;
+}
+
+.navList {
+    list-style: none;
+    padding: 5px 10px;
+}
+
+.navListItem {
+    display: inline-block;
+}
+
+.navListItem a {
+    display: block;
+    color: #fff;
+    text-decoration: underline;
+    padding: 5px;
+}
+
+.navListItem a:hover,
+.navListItem a:focus {
+    text-decoration: none;
+}

@@ -1,0 +1,13 @@
+.widthContainer {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    padding: 10px;
+    background: #eee;
+}
+
+.innerWrap {
+    background: #fff;
+    border-radius: 5px;
+    min-height: 500px;
+    padding: 20px;
+}
